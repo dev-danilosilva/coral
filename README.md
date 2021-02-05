@@ -1,2 +1,3 @@
-# coral
-Python Http Framework
+# Coral
+
+Python Web Framework
